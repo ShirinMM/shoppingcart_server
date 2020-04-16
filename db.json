@@ -1,0 +1,21 @@
+
+{
+  "products": [
+    { "id": 1, "brand_name": "AMUL", "product_name": "Milki Beta",
+      "quantity": "45", "price":"45", "mrf":"67",
+      "url":"https://i.ytimg.com/vi/6hwq-ZsvvYM/hqdefault.jpg","offer": "10%"
+    },
+    { "id": 2, "brand_name": "ZAYA", "product_name": "Baby Food",
+      "quantity": "5", "price":"5", "mrf":"62",
+      "url":"https://5.imimg.com/data5/UC/VT/MY-48784769/amul-milk-powder-500x500.png",
+      "offer": "5%"
+    },
+    { "id": 3, "brand_name": "PATANJALI", "product_name": "Aoevera Gel",
+      "quantity": "15", "price":"59", "mrf":"2",
+      "url":"https://www.patanjaliayurved.net/assets/product_images/400x300/1515404524SaundaryaAloeVeraGel400x300.png",
+      "offer": "3%"
+    }
+
+  ]
+  
+}
